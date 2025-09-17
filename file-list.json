@@ -1,0 +1,12 @@
+{
+  "models": [
+    "crystal.glb",
+    "lotus.glb",
+    "rock.glb"
+  ],
+  "textures": [
+    "serene_sky.hdr",
+    "night_sky.hdr",
+    "forest.hdr"
+  ]
+}
